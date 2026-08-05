@@ -1,3 +1,4 @@
+!uBlacklist ブログ SNS 飲食 非表示
 
 *://*.marugame.com/*
 *://*.1688.com/*
@@ -154,4 +155,7 @@
 *://*.sakura.ne.jp/*
 *://*.seeaa.net/*
 *://*.wordpress.com/*
+
+!飲食系
+*://*.oc-ogawa.co.jp/*
 
