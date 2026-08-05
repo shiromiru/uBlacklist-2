@@ -1,6 +1,6 @@
 !uBlacklist ブログ SNS 飲食 非表示
 
-*://*.marugame.com/*
+
 *://*.1688.com/*
 *://*.alibaba.com/*
 *://*.aliexpress.com/*
@@ -158,4 +158,5 @@
 
 !飲食系
 *://*.oc-ogawa.co.jp/*
+*://*.marugame.com/*
 
