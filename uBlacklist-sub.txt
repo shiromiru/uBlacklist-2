@@ -131,7 +131,7 @@
 *://*.mastodon.social/*
 *://*.mixi.jp/*
 *://*.misskey.io/*
-*://*.note.com/*
+
 *://*.openrec.tv/*
 *://*.pixiv.net/*
 *://*.reddit.com/*
