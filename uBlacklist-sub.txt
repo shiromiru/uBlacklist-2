@@ -159,4 +159,23 @@
 !飲食系
 *://*.oc-ogawa.co.jp/*
 *://*.marugame.com/*
+*://*.buzzfeed.com/*
+*://*.xs848917.xsrv.jp/*
+*://*.eat-now.jp/*
+*://*.kalori.jp/*
+*://*.bon-appetit-jp.com/*
+*://ichioshi.smt.docomo.ne.jp/*
+*://*.ranking.net/*
+*://*.cafe-tatsujin.com/*
+*://*.retty.me/*
+*://*.shiga-love.com/*
+*://*.haraheri.net/*
+*://*.ee-lunch.jp/*
+*://*.jikomanpuku.com/*
+*://*.omocoro.jp/*
+*://*.gourmet-note.jp/*
+*://*.tabelog.com/*
+*://*.seeing-japan.com/*
+*://*.hotpepper.jp/*
+*://*.gnavi.co.jp/*
 
